@@ -1,5 +1,5 @@
 public class Third {
 
     int teen = 5+5;
-    int eleven = teen + 1;
+    int eleven = teen + 2;
 }
